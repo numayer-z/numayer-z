@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronic Enginee
 
 ## 🌐 Connect with me:
 - [Personal Website](https://numayer-z.github.io/)
+- [Office Website](https://profile.diu.ac/numayerandalibzaman)
 - [LinkedIn](https://www.linkedin.com/in/numayerzaman)
 - [Research Gate](https://www.researchgate.net/profile/Numayer-Zaman)
 - [Google Scholar](https://scholar.google.com/citations?user=exrGKF8AAAAJ&hl=en)
