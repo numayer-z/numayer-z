@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate Electrical and Electronic Engineer with a keen interest in research and education. Let me tell you a bit about myself:
 
-- 🔭 I've graduated from Ahsanullah University of Science and Technology, Bangladesh, with a B.Sc degree in Electrical and Electronic Engineering, achieving first-class honors along with a prestigious Dean's Honor Award in December 2022.
+- 🎓 I've graduated from Ahsanullah University of Science and Technology, Bangladesh, with a B.Sc degree in Electrical and Electronic Engineering, achieving first-class honors along with a prestigious Dean's Honor Award in December 2022.
 
-- 🎓 Currently, I am employed as a full-time lecturer at Dhaka International University, Bangladesh, where I impart knowledge in subjects like Electrical Circuits, Electronics II, Electrical Machines I, and Electricity and Magnetism.
+- 🔭 Currently, I am employed as a full-time lecturer at Dhaka International University, Bangladesh, where I impart knowledge in subjects like Electrical Circuits, Electronics II, Electrical Machines I, and Electricity and Magnetism.
 
 - 🧪 Additionally, I'm actively involved in research, serving as a part-time Research Assistant at AUST since my graduation. My research interests span across various domains including Optics and Photonic Applications, VLSI, Optical Sensors, Nano-electronics, and Biomedical Technology.
 
