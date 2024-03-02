@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronic Enginee
 
 - 🌍 Outside academia, I'm an avid explorer who loves to travel and discover new places. I'm also an ardent reader, movie enthusiast, and language learner, constantly seeking new avenues for personal growth and enrichment.
 
-## 📚 Academic Interests:
+## 📚 Research Interests:
 - Optics and Photonic Applications
 - VLSI Design
 - Optical Sensors
