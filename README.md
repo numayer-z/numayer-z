@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronic Enginee
 - [Research Gate](https://www.researchgate.net/profile/Numayer-Zaman)
 - [Google Scholar](https://scholar.google.com/citations?user=exrGKF8AAAAJ&hl=en)
 - [Orcid](https://orcid.org/0009-0005-9183-053X)
-- [Email](mailto:numayer02@gmail.com)
-- [Email](mailto:numayerandalib.eee@diu.ac)
+- [Personal Email](mailto:numayer02@gmail.com)
+- [Office Email](mailto:numayerandalib.eee@diu.ac)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on any of the aforementioned topics. Let's innovate and learn together! 🚀
 
