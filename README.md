@@ -11,15 +11,15 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronic Enginee
 - 🌍 Outside academia, I'm an avid explorer who loves to travel and discover new places. I'm also a reader, movie enthusiast, and language learner, constantly seeking new avenues for personal growth.
 
 ## 📚 Research Interests:
-- Optics and Photonic Applications
-- VLSI Design
-- Optical Sensors
+- RF and Microwave applications
+- Telecommunication
+- Optical and Microwave Sensors
 - Nano-electronics
 - Biomedical Technology
 
 ## 🌐 Connect with me:
 - [Personal Website](https://numayer-z.github.io/)
-- [Office Website](https://profile.diu.ac/numayerandalibzaman)
+- [Office Website](https://www.ehu.eus/en/web/tsr-lab/numayer-a.-zaman)
 - [LinkedIn](https://www.linkedin.com/in/numayerzaman)
 - [Research Gate](https://www.researchgate.net/profile/Numayer-Zaman)
 - [Google Scholar](https://scholar.google.com/citations?user=exrGKF8AAAAJ&hl=en)
